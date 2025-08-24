@@ -18,7 +18,7 @@ Engineering leader with a strong track record of building and scaling data platf
 
 ## Experience
 
-### 🎵 Spotify — Engineering Manager, Data Platform 
+### ![Spotify](assets/img/spotify.jpeg){:width="20" height="20"} [Spotify](https://investors.spotify.com/home/default.aspx) — Engineering Manager, Data Platform 
 **2018–Present | New York, United States**
 
 Lead teams building Spotify's core data platform. Partner closely with product and engineering leaders to shape platform vision, deliver reliable infrastructure, and create an environment where engineers thrive.
@@ -27,14 +27,14 @@ Lead teams building Spotify's core data platform. Partner closely with product a
 
 ---
 
-### 🚀 RM — CTO, BelugaDB
+### ![RevMob](assets/img/revmob.avif){:width="20" height="20"} [RevMob](https://www.crunchbase.com/organization/revmob) — CTO, BelugaDB
 **2017–2018 | São Paulo, Brazil**
 
 Led technology strategy and product development for an early-stage startup building an analytics database for the ad tech and e-commerce industry. Defined the company's technology vision, built the core engineering foundation, and guided product direction from prototype to market readiness.
 
 ---
 
-### 🏠 Grupo ZAP — Engineering Manager & Senior Engineer
+### ![Grupo ZAP](assets/img/zapmais_logo.jpeg){:width="20" height="20"} [Grupo ZAP](https://www.crunchbase.com/organization/grupo-zap) — Engineering Manager & Senior Engineer
 **2013–2017 | São Paulo, Brazil**
 
 **Engineering Manager (2015–2017):** Promoted after rapid company growth. Led teams building recommendation engines and the analytics stack. Partnered with product and business leaders to scale the platform and deliver a better consumer experience across millions of listings.
@@ -43,7 +43,7 @@ Led technology strategy and product development for an early-stage startup build
 
 ---
 
-### 🌐 Globant — Software Engineer
+### ![Globant](assets/img/globant_logo.jpeg){:width="20" height="20"} [Globant](https://investors.globant.com/overview) — Software Engineer
 **2010–2013 | Bogotá, Colombia**
 
 Backend engineer outsourced to the MoneyGram money transfer platform, contributing to core site development and maintenance. Also worked as a data scientist, prototyping analytical models that strengthened business proposals and helped win new projects. Collaborated within agile teams delivering software for international clients.
@@ -59,8 +59,8 @@ Held software engineering roles focused on web development, backend systems, and
 
 ## 🎓 Education
 
-**University of Florida** — M.S., Computer Engineering *(2008–2010)*  
-**University of Miami** — B.S., Information Technology *(1999–2003)*
+![University of Florida](assets/img/uflorida_logo.jpeg){:width="20" height="20"} **University of Florida** — M.S., Computer Engineering *(2008–2010)*  
+![University of Miami](assets/img/universityofmiami_logo.jpeg){:width="20" height="20"} **University of Miami** — B.S., Information Technology *(1999–2003)*
 
 ---
 
@@ -72,6 +72,6 @@ Held software engineering roles focused on web development, backend systems, and
 
 ## 📜 Certifications
 
-✅ Functional Program Design in Scala  
+✅ [Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/certificate/Y3GGV8HHKSEV)  
 ✅ Java SE6 Certified Developer  
-✅ Functional Programming Principles in Scala
+✅ [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/9J4SKEQPF9AH)
