@@ -44,15 +44,15 @@ body {
 
 // Main content styling
 .main-content {
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1.5rem;
   
   h1, h2, h3, h4, h5, h6 {
     color: var(--primary-color);
     font-weight: 600;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
   }
   
   h1 {
@@ -75,10 +75,10 @@ body {
   // Contact info styling
   p:first-of-type {
     background: var(--light-gray);
-    padding: 1.5rem;
+    padding: 1rem;
     border-radius: var(--border-radius);
     border-left: 4px solid var(--secondary-color);
-    margin: 2rem 0;
+    margin: 1rem 0;
     
     a {
       color: var(--secondary-color);
@@ -122,9 +122,9 @@ body {
   // Horizontal rules
   hr {
     border: none;
-    height: 2px;
-    background: linear-gradient(to right, transparent, var(--border-color), transparent);
-    margin: 3rem 0;
+    height: 1px;
+    background: var(--border-color);
+    margin: 1.5rem 0;
   }
   
   // Code blocks
@@ -144,24 +144,16 @@ body {
   }
 }
 
-// Section styling
-.experience-item {
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  background: var(--light-gray);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow);
-  
-  h3 {
-    margin-top: 0;
-    color: var(--primary-color);
-  }
-  
-  .company-location {
-    color: #666;
-    font-style: italic;
-    margin-bottom: 1rem;
-  }
+// Logo styling  
+img {
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+// Experience sections - more compact
+h3 + p {
+  margin-top: -0.5rem;
+  margin-bottom: 0.75rem;
 }
 
 // Responsive design
