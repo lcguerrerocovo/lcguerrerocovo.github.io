@@ -1,4 +1,5 @@
 title: Luis Guerrero
 description: Engineering Manager | Data Platforms & Infrastructure
-theme: jekyll-theme-minimal   # other good choices: jekyll-theme-cayman, slate, minima
-logo: /assets/profile.jpg     # optional, add an image later
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
