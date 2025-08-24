@@ -58,7 +58,7 @@ Held software engineering roles focused on web development, backend systems, and
 
 ## Personal Projects
 
-### ![aoe2.site](assets/img/aoe2site-logo.png){:width="32" height="32"} [aoe2.site](https://aoe2.site)
+### [aoe2.site](https://aoe2.site)
 Modern web application enabling professional players to track performance, analyze match statistics, and identify improvement opportunities through comprehensive game data analytics.
 
 **Tech Stack:** React, TypeScript, Google Cloud Functions, Firestore, Meilisearch
