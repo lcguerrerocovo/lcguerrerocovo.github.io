@@ -8,9 +8,6 @@ description: Engineering Manager specializing in Data Platforms & Infrastructure
 
 [lcguerrerocovo@gmail.com](mailto:lcguerrerocovo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/luiscarlosguerrero) • [GitHub](https://github.com/lcguerrerocovo)
 
----
-
-## Summary
 Engineering leader with a strong track record of building and scaling data platforms that power products used worldwide. Known for clear vision, strong communication, and the ability to align teams behind complex technical goals. I take pride in growing talent, fostering collaboration, and driving platform strategies that unlock long-term business impact.
 
 ---
@@ -74,12 +71,10 @@ Modern web application enabling professional players to track performance, analy
 
 ## Languages
 
-**Native/Bilingual Proficiency:** English • Portuguese • Spanish
+English • Portuguese • Spanish (Native/Bilingual)
 
 ---
 
 ## Certifications
 
-[Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/certificate/Y3GGV8HHKSEV)  
-Java SE6 Certified Developer  
-[Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/9J4SKEQPF9AH)
+[Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/certificate/Y3GGV8HHKSEV) • Java SE6 Certified Developer • [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/9J4SKEQPF9AH)

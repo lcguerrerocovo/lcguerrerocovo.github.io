@@ -78,8 +78,17 @@ body {
     color: var(--secondary-color);
   }
   
-  // Contact info styling
+  // Summary paragraph styling
   p:first-of-type {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-color);
+    margin: 1.5rem 0;
+    text-align: justify;
+  }
+  
+  // Contact info styling
+  p:nth-of-type(2) {
     background: var(--light-gray);
     padding: 1rem;
     border-radius: var(--border-radius);
@@ -154,12 +163,22 @@ body {
 img {
   vertical-align: middle;
   margin-right: 0.5rem;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 // Experience sections - more compact
 h3 + p {
   margin-top: -0.5rem;
   margin-bottom: 0.75rem;
+  font-style: italic;
+  color: #666;
+}
+
+// Tech stack styling
+p strong {
+  color: var(--primary-color);
+  font-weight: 600;
 }
 
 // Responsive design
