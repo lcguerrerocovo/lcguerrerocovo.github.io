@@ -6,7 +6,7 @@ description: Engineering Manager specializing in Data Platforms & Infrastructure
 
 **New York, NY, USA**
 
-📧 [lcguerrerocovo@gmail.com](mailto:lcguerrerocovo@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/luiscarlosguerrero) • 💻 [GitHub](https://github.com/lcguerrerocovo)
+[lcguerrerocovo@gmail.com](mailto:lcguerrerocovo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/luiscarlosguerrero) • [GitHub](https://github.com/lcguerrerocovo)
 
 ---
 
@@ -56,21 +56,30 @@ Held software engineering roles focused on web development, backend systems, and
 
 ---
 
-## 🎓 Education
+## Personal Projects
+
+### [AoE2 Match History](https://aoe2.site)
+Modern web application enabling professional players to track performance, analyze match statistics, and identify improvement opportunities through comprehensive game data analytics.
+
+**Tech Stack:** React, TypeScript, Google Cloud Functions, Firestore, Meilisearch
+
+---
+
+## Education
 
 ![University of Florida](assets/img/uflorida_logo.jpeg){:width="32" height="32"} **University of Florida** — M.S., Computer Engineering *(2008–2010)*  
 ![University of Miami](assets/img/universityofmiami_logo.jpeg){:width="32" height="32"} **University of Miami** — B.S., Information Technology *(1999–2003)*
 
 ---
 
-## 🌍 Languages
+## Languages
 
 **Native/Bilingual Proficiency:** English • Portuguese • Spanish
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-✅ [Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/certificate/Y3GGV8HHKSEV)  
-✅ Java SE6 Certified Developer  
-✅ [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/9J4SKEQPF9AH)
+[Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/certificate/Y3GGV8HHKSEV)  
+Java SE6 Certified Developer  
+[Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/9J4SKEQPF9AH)
