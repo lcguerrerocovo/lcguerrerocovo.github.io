@@ -15,9 +15,9 @@ New York, NY — [lcguerrerocovo@gmail.com](mailto:lcguerrerocovo@gmail.com) •
 ### ![Spotify](assets/img/spotify.jpeg){:width="32" height="32"} [Spotify](https://investors.spotify.com/home/default.aspx) — Engineering Manager, Data Platform
 **2018–Present | Stockholm, Sweden → New York, United States**
 
-Seven years across three areas — fraud detection, data insights, and data infrastructure — managing multiple teams simultaneously, leading cross-org strategy, and consistently contributing hands-on technical work alongside the management role.
+Eight years across three areas — fraud detection, data insights, and data infrastructure — managing multiple teams simultaneously, leading cross-org strategy, and consistently contributing hands-on technical work alongside the management role.
 
-Highlights include owning the multi-year strategy for Spotify's stream processing platform migration — work that drove significant cloud cost savings and directly influenced infrastructure contract negotiations. More recently, leading cross-platform data reliability strategy and leveraging AI to tackle platform-scale engineering challenges.
+Highlights include owning the multi-year strategy for Spotify's data processing platform migration — work that drove significant cloud cost savings and directly influenced infrastructure contract negotiations. More recently, leading cross-platform data reliability strategy and leveraging AI to tackle platform-scale engineering challenges.
 
 I've grown engineers into senior and staff roles, turned around underperforming teams, and consistently built high-trust engineering cultures — while also driving strategy alignment, org health, and ways of working across teams.
 
@@ -100,9 +100,9 @@ I've grown engineers into senior and staff roles, turned around underperforming 
 ### Spotify, Engineering Manager, Data Platform
 2018-Present | Stockholm, Sweden > New York, United States
 
-Seven years across three areas, fraud detection, data insights, and data infrastructure, managing multiple teams simultaneously, leading cross-org strategy, and consistently contributing hands-on technical work alongside the management role.
+Eight years across three areas, fraud detection, data insights, and data infrastructure, managing multiple teams simultaneously, leading cross-org strategy, and consistently contributing hands-on technical work alongside the management role.
 
-- Owned the multi-year strategy for Spotify's stream processing platform migration, driving significant cloud cost savings and directly influencing infrastructure contract negotiations
+- Owned the multi-year strategy for Spotify's data processing platform migration, driving significant cloud cost savings and directly influencing infrastructure contract negotiations
 - Leading cross-platform data reliability strategy and leveraging AI to tackle platform-scale engineering challenges
 - Grown engineers into senior and staff roles, turned around underperforming teams, built high-trust engineering cultures
 
