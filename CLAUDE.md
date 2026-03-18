@@ -24,12 +24,28 @@ The bottom of `index.md` contains a LinkedIn-specific version of the profile ins
 - No en dashes in date ranges. Use plain hyphens (2018-Present, not 2018–Present).
 - No special characters that don't paste cleanly into LinkedIn.
 
+## Writing Style
+
+- No em dashes or en dashes anywhere on the site (not just LinkedIn). Use commas, periods, or rewrite.
+- No special unicode characters. Use plain hyphens for date ranges (2018-Present).
+
 ## Tech Stack
 
-- Jekyll with `pages-themes/cayman@v0.2.0` remote theme
+- Jekyll 4 with `pages-themes/cayman@v0.2.0` remote theme
 - Custom CSS in `assets/css/style.scss`
-- Content in `index.md`
+- Content in `index.md` (experience entries use HTML divs with `markdown="1"` for card layout)
+- Company/university logos in `assets/img/`
 - Deployed via GitHub Pages
+
+## Local Development
+
+Requires Homebrew Ruby (`/opt/homebrew/opt/ruby/bin/`):
+
+```
+/opt/homebrew/opt/ruby/bin/bundle exec jekyll serve
+```
+
+Site available at http://localhost:4000. Auto-regenerates on file changes.
 
 ## Repo Note
 
