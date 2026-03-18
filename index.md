@@ -1,62 +1,62 @@
 ---
 layout: default
 title: Luis Guerrero - Engineering Manager
-description: Engineering Manager specializing in Data Platforms & Infrastructure, Building Teams & Scalable Systems
+description: Engineering Manager | Data Platforms & Infrastructure
 ---
 
-**New York, NY, USA**
+Engineering manager with 20 years across Latin America, Europe, and the US — building search and recommendation systems, running a startup as CTO, and leading data platform strategy at Spotify. I drive technical strategy at the organizational level while staying hands-on enough to ship production systems alongside my teams. Currently focused on where AI intersects with platform engineering at scale.
 
-[lcguerrerocovo@gmail.com](mailto:lcguerrerocovo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/luiscarlosguerrero) • [GitHub](https://github.com/lcguerrerocovo)
-
-Engineering leader with a strong track record of building and scaling data platforms that power products used worldwide. Known for clear vision, strong communication, and the ability to align teams behind complex technical goals. I take pride in growing talent, fostering collaboration, and driving platform strategies that unlock long-term business impact.
+New York, NY — [lcguerrerocovo@gmail.com](mailto:lcguerrerocovo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/luiscarlosguerrero) • [GitHub](https://github.com/lcguerrerocovo)
 
 ---
 
 ## Experience
 
-### ![Spotify](assets/img/spotify.jpeg){:width="32" height="32"} [Spotify](https://investors.spotify.com/home/default.aspx) — Engineering Manager, Data Platform 
-**2018–Present | New York, United States**
+### ![Spotify](assets/img/spotify.jpeg){:width="32" height="32"} [Spotify](https://investors.spotify.com/home/default.aspx) — Engineering Manager, Data Platform
+**2018–Present | Stockholm, Sweden → New York, United States**
 
-Lead teams building Spotify's core data platform. Partner closely with product and engineering leaders to shape platform vision, deliver reliable infrastructure, and create an environment where engineers thrive.
+Seven years across three areas — fraud detection, data insights, and data infrastructure — managing multiple teams simultaneously, leading cross-org strategy, and consistently contributing hands-on technical work alongside the management role.
 
-*Previous roles:* Engineering Manager – Data & Insights (Brazil), Engineering Manager – Fraud & Abuse (Sweden).
+Highlights include owning the multi-year strategy for Spotify's stream processing platform migration — work that drove significant cloud cost savings and directly influenced infrastructure contract negotiations. More recently, leading cross-platform data reliability strategy and leveraging AI to tackle platform-scale engineering challenges.
+
+I've grown engineers into senior and staff roles, turned around underperforming teams, and consistently built high-trust engineering cultures — while also driving strategy alignment, org health, and ways of working across teams.
 
 ---
 
 ### ![RevMob](assets/img/revmob.avif){:width="32" height="32"} [RevMob](https://www.crunchbase.com/organization/revmob) — CTO, BelugaDB
 **2017–2018 | São Paulo, Brazil**
 
-Led technology strategy and product development for an early-stage startup building an analytics database for the ad tech and e-commerce industry. Defined the company's technology vision, built the core engineering foundation, and guided product direction from prototype to market readiness.
+Built the technology foundation for an early-stage analytics database startup serving ad tech and e-commerce. Owned architecture, engineering, and product direction from prototype through market readiness.
 
 ---
 
 ### ![Grupo ZAP](assets/img/zapmais_logo.jpeg){:width="32" height="32"} [Grupo ZAP](https://www.crunchbase.com/organization/grupo-zap) — Engineering Manager & Senior Engineer
 **2013–2017 | São Paulo, Brazil**
 
-**Engineering Manager (2015–2017):** Promoted after rapid company growth. Led teams building recommendation engines and the analytics stack. Partnered with product and business leaders to scale the platform and deliver a better consumer experience across millions of listings.
+**Engineering Manager (2015–2017):** Led teams building recommendation engines and the analytics platform for Brazil's largest real estate marketplace. Promoted during a period of rapid company growth.
 
-**Senior Engineer (2013–2015):** Built search relevance and recommendation systems using machine learning and large-scale data processing. Improved how millions of users discovered properties by optimizing search and recommendations.
+**Senior Engineer (2013–2015):** Built search relevance and recommendation systems using machine learning and large-scale data processing. Directly improved how millions of users discovered properties.
 
 ---
 
 ### ![Globant](assets/img/globant_logo.jpeg){:width="32" height="32"} [Globant](https://investors.globant.com/overview) — Software Engineer
 **2010–2013 | Bogotá, Colombia**
 
-Backend engineer outsourced to the MoneyGram money transfer platform, contributing to core site development and maintenance. Also worked as a data scientist, prototyping analytical models that strengthened business proposals and helped win new projects. Collaborated within agile teams delivering software for international clients.
+Backend engineer on the MoneyGram money transfer platform. Also prototyped analytical models as a data scientist, work that helped win new client engagements.
 
 ---
 
-### 💼 Various Companies — Software Engineer
+### Various Companies — Software Engineer
 **2004–2008 | Bogotá, Colombia**
 
-Held software engineering roles focused on web development, backend systems, and Linux administration. Built foundational skills in Java, PHP, and system operations while delivering solutions for government and private sector clients.
+Web development, backend systems, and Linux administration for government and private sector clients.
 
 ---
 
 ## Personal Projects
 
 ### [aoe2.site](https://aoe2.site)
-Modern web application enabling professional players to track performance, analyze match statistics, and identify improvement opportunities through comprehensive game data analytics.
+Match history and player stats site for Age of Empires II. Search players, browse match details, and track performance over time.
 
 **Tech Stack:** React, TypeScript, Google Cloud Functions, Firestore, Meilisearch
 
@@ -64,7 +64,7 @@ Modern web application enabling professional players to track performance, analy
 
 ## Education
 
-![University of Florida](assets/img/uflorida_logo.jpeg){:width="32" height="32"} **University of Florida** — M.S., Computer Engineering *(2008–2010)*  
+![University of Florida](assets/img/uflorida_logo.jpeg){:width="32" height="32"} **University of Florida** — M.S., Computer Engineering *(2008–2010)*
 ![University of Miami](assets/img/universityofmiami_logo.jpeg){:width="32" height="32"} **University of Miami** — B.S., Information Technology *(1999–2003)*
 
 ---
